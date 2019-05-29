@@ -103,7 +103,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 164,
+                    "y": 160,
                     "ioValues": []
                 }
             ],
@@ -211,10 +211,6 @@
                         {
                             "name": "radius",
                             "ioValue": 9.9
-                        },
-                        {
-                            "name": "max segment size",
-                            "ioValue": 1
                         }
                     ]
                 },
@@ -325,7 +321,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 164,
+                    "y": 160,
                     "ioValues": []
                 }
             ],
@@ -392,5 +388,6 @@
             ],
             "fileTypeVersion": 1
         }
-    ]
+    ],
+    "circleSegmentSize": 2
 }
